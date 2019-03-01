@@ -1,1 +1,7 @@
 # Synchronization Example
+
+## Purpose
+To support an assignment.
+
+## Description
+Demonstrate the concurrency issue of thread safety and resolve using synchronization.
